@@ -1,4 +1,4 @@
-# TuringMaschine
+# TuringMachine
 Turing Machine symulator in C. (first year of college project)
 
 Project for 'Basics of Computer Science' class in first year of Applied Computer Science program at Warsaw University of Technology.
